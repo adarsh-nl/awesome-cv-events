@@ -1,0 +1,366 @@
+# Top conferences in computer vision, machine learning and AI.
+# One entry per conference series; add a new item under `editions` each year.
+# Dates are YYYY-MM-DD. Use null for anything not yet announced — never guess.
+# `verified_from` must point to the official page the facts were checked on.
+
+- id: cvpr
+  name: CVPR
+  full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  type: conference
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://cvpr.thecvf.com
+  editions:
+    - year: 2026
+      url: https://cvpr.thecvf.com/Conferences/2026
+      location: Denver, USA
+      start: 2026-06-03
+      end: 2026-06-07
+      timezone: AoE
+      deadlines:
+        abstract: 2025-11-07
+        paper: 2025-11-13
+        notification: 2026-02-20
+      verified_from: https://cvpr.thecvf.com/Conferences/2026/Dates
+    - year: 2027
+      url: https://cvpr.thecvf.com/Conferences/2027
+      location: Seattle, USA
+      start: 2027-06-20
+      end: 2027-06-25
+      timezone: AoE
+      deadlines:
+        abstract: 2026-11-10
+        paper: 2026-11-16
+        notification: 2027-02-25
+      notes: Official page says Seattle but its venue map points to San Francisco — re-check.
+      verified_from: https://cvpr.thecvf.com/Conferences/2027/CallForPapers
+
+- id: iccv
+  name: ICCV
+  full_name: IEEE/CVF International Conference on Computer Vision
+  type: conference
+  area: [computer-vision]
+  frequency: biennial-odd
+  status: active
+  homepage: https://iccv.thecvf.com
+  editions:
+    - year: 2025
+      url: https://iccv.thecvf.com/Conferences/2025
+      location: Honolulu, USA
+      start: 2025-10-19
+      end: 2025-10-23
+      timezone: HST
+      deadlines:
+        abstract: 2025-03-03
+        paper: 2025-03-07
+        notification: 2025-06-25
+      verified_from: https://iccv.thecvf.com/Conferences/2025/Dates
+    - year: 2027
+      url: https://iccv.thecvf.com/Conferences/2027
+      location: Hong Kong, China
+      start: 2027-10-02
+      end: 2027-10-08
+      timezone: null
+      deadlines:
+        abstract: null
+        paper: null
+        notification: null
+      verified_from: https://iccv.thecvf.com/Conferences/2027
+
+- id: eccv
+  name: ECCV
+  full_name: European Conference on Computer Vision
+  type: conference
+  area: [computer-vision]
+  frequency: biennial-even
+  status: active
+  homepage: https://eccv.ecva.net
+  editions:
+    - year: 2026
+      url: https://eccv.ecva.net/Conferences/2026
+      location: Malmö, Sweden
+      start: 2026-09-08
+      end: 2026-09-12
+      timezone: UTC
+      deadlines:
+        abstract: 2026-02-26
+        paper: 2026-03-05
+        notification: 2026-06-17
+      verified_from: https://eccv.ecva.net/Conferences/2026/Dates
+
+- id: neurips
+  name: NeurIPS
+  full_name: Conference on Neural Information Processing Systems
+  type: conference
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://neurips.cc
+  editions:
+    - year: 2026
+      url: https://neurips.cc/Conferences/2026
+      location: Sydney, Australia
+      start: 2026-12-06
+      end: 2026-12-12
+      timezone: AoE
+      deadlines:
+        abstract: 2026-05-04
+        paper: 2026-05-06
+        notification: 2026-09-24
+      notes: Satellite venues in Atlanta and Paris, 9–13 Dec.
+      verified_from: https://neurips.cc/Conferences/2026/Dates
+    - year: 2027
+      url: https://neurips.cc/Conferences/FutureMeetings
+      location: Europe (city TBA)
+      start: null
+      end: null
+      timezone: null
+      deadlines:
+        abstract: null
+        paper: null
+        notification: null
+      verified_from: https://neurips.cc/Conferences/FutureMeetings
+
+- id: icml
+  name: ICML
+  full_name: International Conference on Machine Learning
+  type: conference
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://icml.cc
+  editions:
+    - year: 2026
+      url: https://icml.cc/Conferences/2026
+      location: Seoul, South Korea
+      start: 2026-07-06
+      end: 2026-07-11
+      timezone: AoE
+      deadlines:
+        abstract: 2026-01-23
+        paper: 2026-01-28
+        notification: 2026-04-30
+      verified_from: https://icml.cc/Conferences/2026/Dates
+    - year: 2027
+      url: https://icml.cc/Conferences/FutureMeetings
+      location: South America (city TBA)
+      start: null
+      end: null
+      timezone: null
+      deadlines:
+        abstract: null
+        paper: null
+        notification: null
+      verified_from: https://icml.cc/Conferences/FutureMeetings
+
+- id: iclr
+  name: ICLR
+  full_name: International Conference on Learning Representations
+  type: conference
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://iclr.cc
+  editions:
+    - year: 2026
+      url: https://iclr.cc/Conferences/2026
+      location: Rio de Janeiro, Brazil
+      start: 2026-04-23
+      end: 2026-04-27
+      timezone: AoE
+      deadlines:
+        abstract: 2025-09-19
+        paper: 2025-09-24
+        notification: 2026-01-25
+      verified_from: https://iclr.cc/Conferences/2026/Dates
+    - year: 2027
+      url: https://iclr.cc/Conferences/2027
+      location: null
+      start: 2027-04-26
+      end: 2027-04-30
+      timezone: AoE
+      deadlines:
+        abstract: 2026-09-18
+        paper: 2026-09-25
+        notification: 2026-12-16
+      notes: Venue "to be announced" on the official dates page.
+      verified_from: https://iclr.cc/Conferences/2027/Dates
+
+- id: aaai
+  name: AAAI
+  full_name: AAAI Conference on Artificial Intelligence
+  type: conference
+  area: [artificial-intelligence]
+  frequency: annual
+  status: active
+  homepage: https://aaai.org/conference/aaai/
+  editions:
+    - year: 2026
+      url: https://aaai.org/conference/aaai/aaai-26/
+      location: Singapore
+      start: 2026-01-20
+      end: 2026-01-27
+      timezone: AoE
+      deadlines:
+        abstract: 2025-07-25
+        paper: 2025-08-01
+        notification: 2025-11-08
+      verified_from: https://aaai.org/conference/aaai/aaai-26/
+    - year: 2027
+      url: https://aaai.org/conference/aaai/aaai-27/
+      location: Montréal, Canada
+      start: 2027-02-16
+      end: 2027-02-23
+      timezone: AoE
+      deadlines:
+        abstract: 2026-07-21
+        paper: 2026-07-28
+        notification: 2026-11-30
+      verified_from: https://aaai.org/conference/aaai/aaai-27/
+
+- id: ijcai
+  name: IJCAI
+  full_name: International Joint Conference on Artificial Intelligence
+  type: conference
+  area: [artificial-intelligence]
+  frequency: annual
+  status: active
+  homepage: https://www.ijcai.org
+  editions:
+    - year: 2026
+      url: https://2026.ijcai.org/
+      location: Bremen, Germany
+      start: 2026-08-15
+      end: 2026-08-21
+      timezone: AoE
+      deadlines:
+        abstract: 2026-01-12
+        paper: 2026-01-19
+        notification: 2026-04-29
+      notes: Joint IJCAI-ECAI 2026.
+      verified_from: https://2026.ijcai.org/important-dates/
+    - year: 2027
+      url: https://www.ijcai.org/future_conferences
+      location: Kyoto, Japan
+      start: 2027-08-07
+      end: 2027-08-13
+      timezone: null
+      deadlines:
+        abstract: null
+        paper: null
+        notification: null
+      notes: Second part in Hengqin, China, 15–17 Aug 2027.
+      verified_from: https://www.ijcai.org/future_conferences
+
+- id: wacv
+  name: WACV
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  type: conference
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://wacv.thecvf.com
+  editions:
+    - year: 2026
+      url: https://wacv.thecvf.com/Conferences/2026
+      location: Tucson, USA
+      start: 2026-03-06
+      end: 2026-03-10
+      timezone: AoE
+      deadlines:
+        abstract: 2025-07-11
+        paper: 2025-07-18
+        notification: 2025-09-05
+        round2_abstract: 2025-09-12
+        round2_paper: 2025-09-19
+        round2_notification: 2025-11-06
+      verified_from: https://wacv.thecvf.com/Conferences/2026/Dates
+    - year: 2027
+      url: https://wacv.thecvf.com/Conferences/2027
+      location: Orlando (Disney Springs), USA
+      start: 2027-01-04
+      end: 2027-01-08
+      timezone: AoE
+      deadlines:
+        abstract: 2026-06-19
+        paper: 2026-06-26
+        notification: 2026-08-09
+        round2_abstract: 2026-08-21
+        round2_paper: 2026-08-28
+        round2_notification: 2026-10-14
+      verified_from: https://wacv.thecvf.com/Conferences/2027/Dates
+
+- id: bmvc
+  name: BMVC
+  full_name: British Machine Vision Conference
+  type: conference
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://www.bmva.org/bmvc
+  editions:
+    - year: 2026
+      url: https://bmvc2026.bmva.org/
+      location: Lancaster, UK
+      start: 2026-11-23
+      end: 2026-11-26
+      timezone: AoE
+      deadlines:
+        abstract: 2026-05-22
+        paper: 2026-05-29
+        notification: 2026-08-07
+      verified_from: https://bmvc2026.bmva.org/calls/call-for-papers/
+
+- id: 3dv
+  name: 3DV
+  full_name: International Conference on 3D Vision
+  type: conference
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://3dvconf.github.io
+  editions:
+    - year: 2026
+      url: https://3dvconf.github.io/2026/
+      location: Vancouver, Canada
+      start: 2026-03-20
+      end: 2026-03-23
+      timezone: PT
+      deadlines:
+        abstract: null
+        paper: 2025-08-18
+        notification: 2025-11-05
+      verified_from: https://3dvconf.github.io/2026/
+    - year: 2027
+      url: https://3dvconf.github.io/2027/
+      location: Thessaloniki, Greece
+      start: 2027-04-06
+      end: 2027-04-09
+      timezone: AoE
+      deadlines:
+        abstract: null
+        paper: 2026-08-28
+        notification: 2026-12-02
+      verified_from: https://3dvconf.github.io/2027/
+
+- id: accv
+  name: ACCV
+  full_name: Asian Conference on Computer Vision
+  type: conference
+  area: [computer-vision]
+  frequency: biennial-even
+  status: active
+  homepage: https://accv2026.org
+  editions:
+    - year: 2026
+      url: https://accv2026.org/
+      location: Osaka, Japan
+      start: 2026-12-14
+      end: 2026-12-18
+      timezone: GMT
+      deadlines:
+        abstract: 2026-07-03
+        paper: 2026-07-05
+        notification: 2026-09-20
+      verified_from: https://accv2026.org/

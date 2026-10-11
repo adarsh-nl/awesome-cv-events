@@ -1,0 +1,23 @@
+name: New or updated event
+description: Report a new edition, changed dates, or an event that should be listed
+labels: [data]
+body:
+  - type: input
+    id: event
+    attributes:
+      label: Event and year
+      placeholder: e.g. CVPR 2028
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source URL
+      description: Must be the event's own website, not a third-party aggregator.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What changed?
+      placeholder: Dates, location, deadlines...

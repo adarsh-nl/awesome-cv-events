@@ -1,0 +1,36 @@
+name: Monthly update check
+
+# On the 1st of every month, list what needs updating (next editions not yet
+# added, TBA fields, dormant series, broken links) and keep it in one open issue.
+on:
+  schedule:
+    - cron: "0 7 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scripts/check_updates.py --links > report.md
+      - name: Open or refresh the tracking issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="🗓️ Update check: conferences & summer schools"
+          gh label create update-check --color FBCA04 --description "Automated update reminder" 2>/dev/null || true
+          NUM=$(gh issue list --label update-check --state open --json number --jq '.[0].number')
+          if [ -n "$NUM" ]; then
+            gh issue edit "$NUM" --body-file report.md
+            gh issue comment "$NUM" --body "Refreshed on $(date -u +%Y-%m-%d)."
+          else
+            gh issue create --title "$TITLE" --label update-check --body-file report.md
+          fi

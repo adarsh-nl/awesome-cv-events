@@ -1,0 +1,36 @@
+name: Build README & calendar
+
+# Regenerates README.md and calendar.ics whenever the data changes,
+# and once a day so passed deadlines drop off the "Upcoming" table.
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/**", "README.md"]
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Regenerate only if content changed
+        run: |
+          if python scripts/build.py --check; then
+            echo "Up to date."
+          else
+            python scripts/build.py
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md calendar.ics
+            git commit -m "chore: regenerate README and calendar"
+            git push
+          fi

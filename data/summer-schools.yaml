@@ -1,0 +1,261 @@
+# Top summer schools in computer vision, deep learning and machine learning.
+# Same format as conferences.yaml. Multiple editions in one year are allowed —
+# give each a `title` to tell them apart.
+
+- id: icvss
+  name: ICVSS
+  full_name: International Computer Vision Summer School
+  type: summer-school
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://icvss.dmi.unict.it/
+  editions:
+    - year: 2026
+      url: https://icvss.dmi.unict.it/icvss2026/
+      location: Punta Sampieri (Sicily), Italy
+      start: 2026-07-05
+      end: 2026-07-11
+      timezone: null
+      deadlines:
+        application: 2026-04-01
+        notification: 2026-04-15
+      verified_from: https://icvss.dmi.unict.it/icvss2026/
+
+- id: bmva-cvss
+  name: BMVA CVSS
+  full_name: BMVA Computer Vision Summer School
+  type: summer-school
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://cvss.bmva.org/
+  editions:
+    - year: 2026
+      url: https://cvss.bmva.org/
+      location: Durham, UK
+      start: 2026-07-13
+      end: 2026-07-17
+      timezone: null
+      deadlines:
+        registration: 2026-05-31
+      notes: Paid registration (no selection); date is the early-bird cutoff.
+      verified_from: https://cvss.bmva.org/attending/registration/
+
+- id: mlss
+  name: MLSS
+  full_name: Machine Learning Summer School
+  type: summer-school
+  area: [machine-learning]
+  frequency: multiple-per-year
+  status: active
+  homepage: https://mlss.cc
+  editions:
+    - year: 2026
+      title: MLSS Tübingen
+      url: https://mlss2026.is.tuebingen.mpg.de/
+      location: Tübingen, Germany
+      start: 2026-08-31
+      end: 2026-09-11
+      timezone: Europe/Berlin
+      deadlines:
+        application: 2026-06-21
+        notification: 2026-06-29
+      verified_from: https://mlss2026.is.tuebingen.mpg.de/dates/
+    - year: 2026
+      title: MLSS Reliability & Safety
+      url: https://mlss2026.mlinpl.org/
+      location: Kraków, Poland
+      start: 2026-06-29
+      end: 2026-07-03
+      timezone: AoE
+      deadlines:
+        application: null
+      verified_from: https://mlss2026.mlinpl.org/
+
+- id: eeml
+  name: EEML
+  full_name: Eastern European Machine Learning Summer School
+  type: summer-school
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://www.eeml.eu/
+  editions:
+    - year: 2026
+      url: https://www.eeml.eu/home
+      location: Cetinje, Montenegro
+      start: 2026-07-27
+      end: 2026-08-01
+      timezone: AoE
+      deadlines:
+        application: 2026-03-31
+      verified_from: https://www.eeml.eu/application
+
+- id: lxmls
+  name: LxMLS
+  full_name: Lisbon Machine Learning School
+  type: summer-school
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://lxmls.github.io/
+  editions:
+    - year: 2026
+      url: https://lxmls.github.io/2026/index.html
+      location: Lisbon, Portugal
+      start: 2026-07-20
+      end: 2026-07-25
+      timezone: null
+      deadlines:
+        application: 2026-05-08
+        notification: 2026-05-18
+      verified_from: https://lxmls.github.io/2026/index.html
+
+- id: oxml
+  name: OxML
+  full_name: Oxford Machine Learning Summer School
+  type: summer-school
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://www.oxfordml.school/
+  editions:
+    - year: 2026
+      url: https://www.oxfordml.school/2026
+      location: Online / hybrid
+      start: 2026-07-10
+      end: 2026-07-18
+      timezone: null
+      deadlines:
+        application: null
+      notes: Modular; dates cover the two hybrid July modules.
+      verified_from: https://www.oxfordml.school/2026
+    - year: 2027
+      url: https://www.oxfordml.school/
+      location: Oxford, UK
+      start: 2027-08-10
+      end: 2027-08-15
+      timezone: null
+      deadlines:
+        application: null
+      notes: Biomedical AI 10–12 Aug, Frontier AI 13–15 Aug; Foundation Models online in June.
+      verified_from: https://www.oxfordml.school/2027/register
+
+- id: ellis-munich
+  name: ELLIS Munich
+  full_name: ELLIS Munich Summer School on Machine Learning & Computer Vision
+  type: summer-school
+  area: [computer-vision, machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://www.ellismunich.ai/summer-school/index.html
+  editions:
+    - year: 2026
+      url: https://www.ellismunich.ai/summer-school/index.html
+      location: Garching (Munich), Germany
+      start: 2026-09-15
+      end: 2026-09-18
+      timezone: null
+      deadlines:
+        application: null
+      verified_from: https://www.ellismunich.ai/summer-school/index.html
+
+- id: deep-learning-indaba
+  name: Deep Learning Indaba
+  full_name: Deep Learning Indaba
+  type: summer-school
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://deeplearningindaba.com/
+  editions:
+    - year: 2026
+      url: https://deeplearningindaba.com/2026/
+      location: Lagos, Nigeria
+      start: 2026-08-02
+      end: 2026-08-07
+      timezone: null
+      deadlines:
+        application: null
+      verified_from: https://deeplearningindaba.com/2026/
+
+- id: deeplearn
+  name: DeepLearn
+  full_name: International School on Deep Learning (IRDTA)
+  type: summer-school
+  area: [machine-learning, computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://deeplearn.irdta.eu/
+  editions:
+    - year: 2026
+      url: https://deeplearn.irdta.eu/2026/
+      location: Orléans, France
+      start: 2026-07-20
+      end: 2026-07-24
+      timezone: null
+      deadlines:
+        registration: 2026-07-17
+      notes: Paid registration (no selection).
+      verified_from: https://deeplearn.irdta.eu/2026/registration/
+
+- id: cvc-ssad
+  name: SSAD
+  full_name: CVC Summer School on Autonomous Driving
+  type: summer-school
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://pages.cvc.uab.es/ssadriving/
+  editions:
+    - year: 2026
+      url: https://pages.cvc.uab.es/ssadriving/
+      location: Barcelona, Spain
+      start: 2026-09-15
+      end: 2026-09-18
+      timezone: AoE
+      deadlines:
+        application: 2026-06-08
+      verified_from: https://pages.cvc.uab.es/ssadriving/
+
+# --- Dormant: kept for history; flip to `active` when a new edition is announced ---
+
+- id: paiss
+  name: PAISS
+  full_name: PRAIRIE/MIAI Artificial Intelligence Summer School
+  type: summer-school
+  area: [machine-learning, computer-vision]
+  frequency: irregular
+  status: dormant
+  homepage: https://paiss.inria.fr/
+  editions:
+    - year: 2025
+      url: https://paiss.inria.fr/
+      location: Grenoble, France
+      start: 2025-09-01
+      end: 2025-09-05
+      timezone: null
+      deadlines:
+        application: null
+      verified_from: https://paiss.inria.fr/
+
+- id: cifar-dlrl
+  name: CIFAR DLRL
+  full_name: CIFAR Deep Learning + Reinforcement Learning Summer School
+  type: summer-school
+  area: [machine-learning]
+  frequency: annual
+  status: dormant
+  homepage: https://cifar.ca/next-generation/cifar-ai-frontiers-school/
+  editions:
+    - year: 2025
+      url: https://amii.ca/events/dlrl-summer-school
+      location: Edmonton, Canada
+      start: 2025-07-21
+      end: 2025-08-01
+      timezone: null
+      deadlines:
+        application: null
+      notes: Succeeded by the CIFAR AI Frontiers School; no dates announced yet.
+      verified_from: https://amii.ca/events/dlrl-summer-school
