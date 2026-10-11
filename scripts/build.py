@@ -271,7 +271,7 @@ def ics_escape(t: str) -> str:
 def vevent(uid: str, summary: str, start: dt.date, end_incl: dt.date, url: str, desc: str) -> list[str]:
     return [
         "BEGIN:VEVENT",
-        f"UID:{uid}@cv-dl-events",
+        f"UID:{uid}@awesome-cv-events",
         "DTSTAMP:20260101T000000Z",
         f"DTSTART;VALUE=DATE:{start:%Y%m%d}",
         f"DTEND;VALUE=DATE:{end_incl + dt.timedelta(days=1):%Y%m%d}",
@@ -287,7 +287,7 @@ def build_ics(series: list[dict]) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//cv-dl-events//EN",
+        "PRODID:-//awesome-cv-events//EN",
         "CALSCALE:GREGORIAN",
         "X-WR-CALNAME:CV & DL Conferences + Summer Schools",
     ]

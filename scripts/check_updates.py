@@ -98,7 +98,7 @@ def broken_links(series: list[dict]) -> list[str]:
             urls.update([e["url"], e["verified_from"]])
     out = []
     for u in sorted(urls):
-        req = urllib.request.Request(u, method="GET", headers={"User-Agent": "Mozilla/5.0 (cv-dl-events link check)"})
+        req = urllib.request.Request(u, method="GET", headers={"User-Agent": "Mozilla/5.0 (awesome-cv-events link check)"})
         try:
             with urllib.request.urlopen(req, timeout=20) as r:
                 if r.status >= 400:
