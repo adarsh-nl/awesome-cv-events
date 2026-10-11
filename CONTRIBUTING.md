@@ -26,7 +26,7 @@ The **Monthly update check** issue tells you what to do. Typically:
   name: CVPR                    # short name shown in tables
   full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   type: conference              # conference | summer-school
-  area: [computer-vision]       # computer-vision | machine-learning | artificial-intelligence
+  area: [computer-vision]       # computer-vision | machine-learning | artificial-intelligence | robotics
   frequency: annual             # annual | biennial-odd | biennial-even | multiple-per-year | irregular
   status: active                # active | dormant
   homepage: https://cvpr.thecvf.com

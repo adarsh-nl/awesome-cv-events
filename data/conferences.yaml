@@ -364,3 +364,243 @@
         paper: 2026-07-05
         notification: 2026-09-20
       verified_from: https://accv2026.org/
+
+# --- Machine learning (theory, probabilistic, statistical) ---
+
+- id: aistats
+  name: AISTATS
+  full_name: International Conference on Artificial Intelligence and Statistics
+  type: conference
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://aistats.org/
+  editions:
+    - year: 2026
+      url: https://aistats.org/aistats2026/
+      location: Tangier, Morocco
+      start: 2026-05-02
+      end: 2026-05-05
+      timezone: AoE
+      deadlines:
+        abstract: 2025-09-25
+        paper: 2025-10-02
+        notification: 2026-01-22
+      verified_from: https://virtual.aistats.org/Conferences/2026/Dates
+    - year: 2027
+      url: https://aistats.org/aistats2027/
+      location: Montréal, Canada
+      start: 2027-05-03
+      end: 2027-05-06
+      timezone: AoE
+      deadlines:
+        abstract: 2026-09-29
+        paper: 2026-10-06
+        notification: 2027-01-20
+      verified_from: https://virtual.aistats.org/Conferences/2027/Dates
+
+- id: uai
+  name: UAI
+  full_name: Conference on Uncertainty in Artificial Intelligence
+  type: conference
+  area: [machine-learning, artificial-intelligence]
+  frequency: annual
+  status: active
+  homepage: https://www.auai.org/
+  editions:
+    - year: 2026
+      url: https://www.auai.org/uai2026/
+      location: Amsterdam, Netherlands
+      start: 2026-08-17
+      end: 2026-08-21
+      timezone: AoE
+      deadlines:
+        paper: 2026-02-25
+        notification: 2026-06-01
+      verified_from: https://www.auai.org/uai2026/important_dates
+
+- id: colt
+  name: COLT
+  full_name: Conference on Learning Theory
+  type: conference
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://learningtheory.org/
+  editions:
+    - year: 2026
+      url: https://learningtheory.org/colt2026/
+      location: San Diego, USA
+      start: 2026-06-29
+      end: 2026-07-03
+      timezone: AoE
+      deadlines:
+        paper: 2026-02-04
+        notification: 2026-05-04
+      verified_from: https://learningtheory.org/colt2026/
+    - year: 2027
+      url: https://learningtheory.org/colt2027/
+      location: Tokyo, Japan
+      start: 2027-06-28
+      end: 2027-07-02
+      timezone: null
+      deadlines:
+        paper: null
+      verified_from: https://learningtheory.org/colt2027/
+
+# --- Vision-adjacent ---
+
+- id: acmmm
+  name: ACM MM
+  full_name: ACM International Conference on Multimedia
+  type: conference
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://acmmm.org/
+  editions:
+    - year: 2026
+      url: https://2026.acmmm.org/
+      location: Rio de Janeiro, Brazil
+      start: 2026-11-10
+      end: 2026-11-14
+      timezone: null
+      deadlines:
+        abstract: 2026-03-25
+        paper: 2026-04-01
+        notification: 2026-07-09
+      verified_from: https://2026.acmmm.org/site/important-dates.html
+
+- id: miccai
+  name: MICCAI
+  full_name: Medical Image Computing and Computer Assisted Intervention
+  type: conference
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://conferences.miccai.org/
+  editions:
+    - year: 2026
+      url: https://conferences.miccai.org/2026/en/
+      location: Strasbourg, France
+      start: 2026-09-27
+      end: 2026-10-01
+      timezone: PT
+      deadlines:
+        abstract: 2026-02-12
+        paper: 2026-02-26
+        notification: 2026-06-12
+      verified_from: https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+
+# --- Robotics & robot perception ---
+
+- id: icra
+  name: ICRA
+  full_name: IEEE International Conference on Robotics and Automation
+  type: conference
+  area: [robotics]
+  frequency: annual
+  status: active
+  homepage: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+  editions:
+    - year: 2026
+      url: https://2026.ieee-icra.org/
+      location: Vienna, Austria
+      start: 2026-06-01
+      end: 2026-06-05
+      timezone: null
+      deadlines:
+        paper: null
+        notification: 2026-01-31
+      verified_from: https://2026.ieee-icra.org/contribute/call-for-icra-2026-papers/
+    - year: 2027
+      url: https://2027.ieee-icra.org/
+      location: Seoul, South Korea
+      start: 2027-05-24
+      end: 2027-05-28
+      timezone: PST
+      deadlines:
+        paper: 2026-09-16
+        notification: null
+      notes: Paper deadline is the 24h extension.
+      verified_from: https://2027.ieee-icra.org/announcements/
+
+- id: iros
+  name: IROS
+  full_name: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  type: conference
+  area: [robotics]
+  frequency: annual
+  status: active
+  homepage: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/
+  editions:
+    - year: 2026
+      url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
+      location: Pittsburgh, USA
+      start: 2026-09-27
+      end: 2026-10-01
+      timezone: null
+      deadlines:
+        paper: null
+      notes: Conference site blocks automated checks; dates from the IEEE RAS venues page.
+      verified_from: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
+    - year: 2027
+      url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
+      location: Florence, Italy
+      start: 2027-09-26
+      end: 2027-10-01
+      timezone: null
+      deadlines:
+        paper: null
+      verified_from: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
+
+- id: corl
+  name: CoRL
+  full_name: Conference on Robot Learning
+  type: conference
+  area: [robotics, machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://www.corl.org/
+  editions:
+    - year: 2026
+      url: https://2026.corl.org/
+      location: Austin, USA
+      start: 2026-11-09
+      end: 2026-11-12
+      timezone: null
+      deadlines:
+        paper: 2026-05-28
+      verified_from: https://www.corl.org/contributions/instruction-for-authors
+
+- id: rss
+  name: RSS
+  full_name: Robotics - Science and Systems
+  type: conference
+  area: [robotics]
+  frequency: annual
+  status: active
+  homepage: https://roboticsconference.org/
+  editions:
+    - year: 2026
+      url: https://roboticsconference.org/2026/
+      location: Sydney, Australia
+      start: 2026-07-13
+      end: 2026-07-17
+      timezone: AoE
+      deadlines:
+        paper: 2026-01-30
+        notification: 2026-04-27
+      verified_from: https://roboticsconference.org/2026/
+    - year: 2027
+      url: https://roboticsconference.org/
+      location: Athens, Greece
+      start: 2027-07-06
+      end: 2027-07-11
+      timezone: AoE
+      deadlines:
+        abstract: 2026-12-04
+        paper: 2027-04-16
+        notification: 2027-04-30
+      notes: New two-stage review; "abstract" is the extended-abstract deadline (stage 1 decision 5 Feb 2027).
+      verified_from: https://roboticsconference.org/

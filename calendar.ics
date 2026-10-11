@@ -744,6 +744,386 @@ DESCRIPTION:Asian Conference on Computer Vision
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:5e52f3c2ef34@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260506
+SUMMARY:📍 AISTATS 2026 — Tangier\, Morocco
+URL:https://aistats.org/aistats2026/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e52f3c2ef34-abstract@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250925
+DTEND;VALUE=DATE:20250926
+SUMMARY:⏰ AISTATS 2026: Abstract deadline (AoE)
+URL:https://aistats.org/aistats2026/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e52f3c2ef34-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:⏰ AISTATS 2026: Paper deadline (AoE)
+URL:https://aistats.org/aistats2026/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e52f3c2ef34-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:⏰ AISTATS 2026: Notification deadline (AoE)
+URL:https://aistats.org/aistats2026/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7028fa757453@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270507
+SUMMARY:📍 AISTATS 2027 — Montréal\, Canada
+URL:https://aistats.org/aistats2027/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7028fa757453-abstract@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:⏰ AISTATS 2027: Abstract deadline (AoE)
+URL:https://aistats.org/aistats2027/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7028fa757453-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:⏰ AISTATS 2027: Paper deadline (AoE)
+URL:https://aistats.org/aistats2027/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7028fa757453-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:⏰ AISTATS 2027: Notification deadline (AoE)
+URL:https://aistats.org/aistats2027/
+DESCRIPTION:International Conference on Artificial Intelligence and Statistics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9713bc825c1c@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260822
+SUMMARY:📍 UAI 2026 — Amsterdam\, Netherlands
+URL:https://www.auai.org/uai2026/
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9713bc825c1c-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:⏰ UAI 2026: Paper deadline (AoE)
+URL:https://www.auai.org/uai2026/
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9713bc825c1c-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:⏰ UAI 2026: Notification deadline (AoE)
+URL:https://www.auai.org/uai2026/
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58d18f21e308@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260704
+SUMMARY:📍 COLT 2026 — San Diego\, USA
+URL:https://learningtheory.org/colt2026/
+DESCRIPTION:Conference on Learning Theory
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58d18f21e308-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:⏰ COLT 2026: Paper deadline (AoE)
+URL:https://learningtheory.org/colt2026/
+DESCRIPTION:Conference on Learning Theory
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58d18f21e308-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:⏰ COLT 2026: Notification deadline (AoE)
+URL:https://learningtheory.org/colt2026/
+DESCRIPTION:Conference on Learning Theory
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d89fa499f8c9@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270703
+SUMMARY:📍 COLT 2027 — Tokyo\, Japan
+URL:https://learningtheory.org/colt2027/
+DESCRIPTION:Conference on Learning Theory
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2297acf197@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261115
+SUMMARY:📍 ACM MM 2026 — Rio de Janeiro\, Brazil
+URL:https://2026.acmmm.org/
+DESCRIPTION:ACM International Conference on Multimedia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2297acf197-abstract@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:⏰ ACM MM 2026: Abstract deadline
+URL:https://2026.acmmm.org/
+DESCRIPTION:ACM International Conference on Multimedia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2297acf197-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:⏰ ACM MM 2026: Paper deadline
+URL:https://2026.acmmm.org/
+DESCRIPTION:ACM International Conference on Multimedia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2297acf197-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:⏰ ACM MM 2026: Notification deadline
+URL:https://2026.acmmm.org/
+DESCRIPTION:ACM International Conference on Multimedia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a487fff9f78c@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261002
+SUMMARY:📍 MICCAI 2026 — Strasbourg\, France
+URL:https://conferences.miccai.org/2026/en/
+DESCRIPTION:Medical Image Computing and Computer Assisted Intervention
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a487fff9f78c-abstract@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:⏰ MICCAI 2026: Abstract deadline (PT)
+URL:https://conferences.miccai.org/2026/en/
+DESCRIPTION:Medical Image Computing and Computer Assisted Intervention
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a487fff9f78c-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:⏰ MICCAI 2026: Paper deadline (PT)
+URL:https://conferences.miccai.org/2026/en/
+DESCRIPTION:Medical Image Computing and Computer Assisted Intervention
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a487fff9f78c-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:⏰ MICCAI 2026: Notification deadline (PT)
+URL:https://conferences.miccai.org/2026/en/
+DESCRIPTION:Medical Image Computing and Computer Assisted Intervention
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7bbc70c89c6@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260606
+SUMMARY:📍 ICRA 2026 — Vienna\, Austria
+URL:https://2026.ieee-icra.org/
+DESCRIPTION:IEEE International Conference on Robotics and Automation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7bbc70c89c6-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:⏰ ICRA 2026: Notification deadline
+URL:https://2026.ieee-icra.org/
+DESCRIPTION:IEEE International Conference on Robotics and Automation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27f885986fcc@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270529
+SUMMARY:📍 ICRA 2027 — Seoul\, South Korea
+URL:https://2027.ieee-icra.org/
+DESCRIPTION:IEEE International Conference on Robotics and Automation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27f885986fcc-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:⏰ ICRA 2027: Paper deadline (PST)
+URL:https://2027.ieee-icra.org/
+DESCRIPTION:IEEE International Conference on Robotics and Automation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:74f9f65476c3@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261002
+SUMMARY:📍 IROS 2026 — Pittsburgh\, USA
+URL:https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
+DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a516b699e22@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20271002
+SUMMARY:📍 IROS 2027 — Florence\, Italy
+URL:https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
+DESCRIPTION:IEEE/RSJ International Conference on Intelligent Robots and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3ff7ed3bb9@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:📍 CoRL 2026 — Austin\, USA
+URL:https://2026.corl.org/
+DESCRIPTION:Conference on Robot Learning
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b3ff7ed3bb9-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:⏰ CoRL 2026: Paper deadline
+URL:https://2026.corl.org/
+DESCRIPTION:Conference on Robot Learning
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5cbc1c011202@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260718
+SUMMARY:📍 RSS 2026 — Sydney\, Australia
+URL:https://roboticsconference.org/2026/
+DESCRIPTION:Robotics - Science and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5cbc1c011202-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:⏰ RSS 2026: Paper deadline (AoE)
+URL:https://roboticsconference.org/2026/
+DESCRIPTION:Robotics - Science and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5cbc1c011202-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:⏰ RSS 2026: Notification deadline (AoE)
+URL:https://roboticsconference.org/2026/
+DESCRIPTION:Robotics - Science and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d6878cfcca7@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270712
+SUMMARY:📍 RSS 2027 — Athens\, Greece
+URL:https://roboticsconference.org/
+DESCRIPTION:Robotics - Science and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d6878cfcca7-abstract@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:⏰ RSS 2027: Abstract deadline (AoE)
+URL:https://roboticsconference.org/
+DESCRIPTION:Robotics - Science and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d6878cfcca7-paper@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:⏰ RSS 2027: Paper deadline (AoE)
+URL:https://roboticsconference.org/
+DESCRIPTION:Robotics - Science and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d6878cfcca7-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:⏰ RSS 2027: Notification deadline (AoE)
+URL:https://roboticsconference.org/
+DESCRIPTION:Robotics - Science and Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:7fdcdb168615@awesome-cv-events
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260705
@@ -961,6 +1341,76 @@ DTEND;VALUE=DATE:20260609
 SUMMARY:⏰ SSAD 2026: Application deadline (AoE)
 URL:https://pages.cvc.uab.es/ssadriving/
 DESCRIPTION:CVC Summer School on Autonomous Driving
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d234155768c3@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260816
+SUMMARY:📍 VSSS 2026 — Prague\, Czechia
+URL:https://cmp.felk.cvut.cz/summerschool2026
+DESCRIPTION:Vision and Sports Summer School (CTU Prague)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d234155768c3-application@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:⏰ VSSS 2026: Application deadline
+URL:https://cmp.felk.cvut.cz/summerschool2026
+DESCRIPTION:Vision and Sports Summer School (CTU Prague)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d234155768c3-notification@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:⏰ VSSS 2026: Notification deadline
+URL:https://cmp.felk.cvut.cz/summerschool2026
+DESCRIPTION:Vision and Sports Summer School (CTU Prague)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d5603a52d94@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260808
+SUMMARY:📍 ProbAI 2026 — Vilnius\, Lithuania
+URL:https://probai.school/
+DESCRIPTION:Nordic Probabilistic AI School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18eec00322a4@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270904
+SUMMARY:📍 M2L 2027 — Barcelona\, Spain
+URL:https://www.m2lschool.org/
+DESCRIPTION:Mediterranean Machine Learning Summer School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26b06926345b@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260805
+SUMMARY:📍 IEEE RAS MRS 2026 — Prague\, Czechia
+URL:https://mrs.fel.cvut.cz/summer-school-2026
+DESCRIPTION:IEEE RAS Summer School on Multi-Robot Systems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26b06926345b-application@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:⏰ IEEE RAS MRS 2026: Application deadline
+URL:https://mrs.fel.cvut.cz/summer-school-2026
+DESCRIPTION:IEEE RAS Summer School on Multi-Robot Systems
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

@@ -219,6 +219,85 @@
         application: 2026-06-08
       verified_from: https://pages.cvc.uab.es/ssadriving/
 
+- id: vsss
+  name: VSSS
+  full_name: Vision and Sports Summer School (CTU Prague)
+  type: summer-school
+  area: [computer-vision]
+  frequency: annual
+  status: active
+  homepage: https://cmp.felk.cvut.cz/summerschool2026
+  editions:
+    - year: 2026
+      url: https://cmp.felk.cvut.cz/summerschool2026
+      location: Prague, Czechia
+      start: 2026-08-10
+      end: 2026-08-15
+      timezone: null
+      deadlines:
+        application: 2026-05-08
+        notification: 2026-05-10
+      verified_from: https://cmp.felk.cvut.cz/summerschool2026
+
+- id: probai
+  name: ProbAI
+  full_name: Nordic Probabilistic AI School
+  type: summer-school
+  area: [machine-learning]
+  frequency: annual
+  status: active
+  homepage: https://probabilistic.ai/
+  editions:
+    - year: 2026
+      url: https://probai.school/
+      location: Vilnius, Lithuania
+      start: 2026-08-03
+      end: 2026-08-07
+      timezone: null
+      deadlines:
+        application: null
+      verified_from: https://probai.school/
+
+- id: m2l
+  name: M2L
+  full_name: Mediterranean Machine Learning Summer School
+  type: summer-school
+  area: [machine-learning]
+  frequency: irregular
+  status: active
+  homepage: https://www.m2lschool.org/
+  editions:
+    - year: 2027
+      url: https://www.m2lschool.org/
+      location: Barcelona, Spain
+      start: 2027-08-30
+      end: 2027-09-03
+      timezone: null
+      deadlines:
+        application: null
+      notes: No 2026 edition.
+      verified_from: https://www.m2lschool.org/
+
+- id: ras-mrs
+  name: IEEE RAS MRS
+  full_name: IEEE RAS Summer School on Multi-Robot Systems
+  type: summer-school
+  area: [robotics]
+  frequency: annual
+  status: active
+  homepage: https://mrs.fel.cvut.cz/summer-school/
+  editions:
+    - year: 2026
+      url: https://mrs.fel.cvut.cz/summer-school-2026
+      location: Prague, Czechia
+      start: 2026-07-29
+      end: 2026-08-04
+      timezone: null
+      deadlines:
+        application: 2026-07-14
+      notes: Rolling selection rounds; final round deadline shown.
+      verified_from: https://mrs.fel.cvut.cz/summer-school-2026
+
 # --- Dormant: kept for history; flip to `active` when a new edition is announced ---
 
 - id: paiss

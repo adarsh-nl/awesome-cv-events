@@ -25,13 +25,13 @@ ICS = ROOT / "calendar.ics"
 BEGIN, END = "<!-- BEGIN GENERATED -->", "<!-- END GENERATED -->"
 
 TYPES = {"conference", "summer-school"}
-AREAS = {"computer-vision", "machine-learning", "artificial-intelligence"}
+AREAS = {"computer-vision", "machine-learning", "artificial-intelligence", "robotics"}
 FREQS = {"annual", "biennial-odd", "biennial-even", "multiple-per-year", "irregular"}
 STATUSES = {"active", "dormant"}
 SERIES_KEYS = {"id", "name", "full_name", "type", "area", "frequency", "status", "homepage", "editions"}
 EDITION_REQ = {"year", "url", "location", "start", "end", "deadlines", "verified_from"}
 EDITION_OPT = {"title", "timezone", "notes"}
-AREA_BADGE = {"computer-vision": "CV", "machine-learning": "ML", "artificial-intelligence": "AI"}
+AREA_BADGE = {"computer-vision": "CV", "machine-learning": "ML", "artificial-intelligence": "AI", "robotics": "RO"}
 DEADLINE_LABEL = {
     "abstract": "Abstract",
     "paper": "Paper",
@@ -240,7 +240,7 @@ def render(series: list[dict], today: dt.date) -> str:
         [
             BEGIN,
             f"_Last generated: {today:%d %b %Y}. Struck-through deadlines have passed. "
-            "`CV` computer vision · `ML` machine learning · `AI` artificial intelligence._",
+            "`CV` computer vision · `ML` machine learning · `AI` artificial intelligence · `RO` robotics._",
             "## ⏰ Upcoming deadlines",
             upcoming_deadlines(series, today),
             "## 🏛️ Conferences",
