@@ -11,13 +11,12 @@ A curated, continuously updated tracker of the **top conferences and summer scho
 
 <!-- BEGIN GENERATED -->
 
-_Last generated: 11 Oct 2026. Struck-through deadlines have passed. `CV` computer vision · `ML` machine learning · `AI` artificial intelligence · `RO` robotics._
+_Last generated: 15 Oct 2026. Struck-through deadlines have passed. `CV` computer vision · `ML` machine learning · `AI` artificial intelligence · `RO` robotics._
 
 ## ⏰ Upcoming deadlines
 
 | Date | Event | Deadline | Timezone |
 |---|---|---|---|
-| Wed 14 Oct 2026 | [WACV 2027](https://wacv.thecvf.com/Conferences/2027) | Notification (round 2) | AoE |
 | Tue 10 Nov 2026 | [CVPR 2027](https://cvpr.thecvf.com/Conferences/2027) | Abstract | AoE |
 | Mon 16 Nov 2026 | [CVPR 2027](https://cvpr.thecvf.com/Conferences/2027) | Paper | AoE |
 | Mon 30 Nov 2026 | [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/) | Notification | AoE |
