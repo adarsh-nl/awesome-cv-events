@@ -59,14 +59,15 @@
     - year: 2027
       url: https://iccv.thecvf.com/Conferences/2027
       location: Hong Kong, China
-      start: 2027-10-02
-      end: 2027-10-08
+      start: 2027-10-03
+      end: 2027-10-07
       timezone: null
       deadlines:
         abstract: null
         paper: null
         notification: null
-      verified_from: https://iccv.thecvf.com/Conferences/2027
+      notes: At HKCEC. Dates page says 3–7 Oct (workshops 3–4, main 5–7); homepage venue section still says 2–8 Oct.
+      verified_from: https://iccv.thecvf.com/Conferences/2027/Dates
 
 - id: eccv
   name: ECCV
@@ -176,7 +177,7 @@
       verified_from: https://iclr.cc/Conferences/2026/Dates
     - year: 2027
       url: https://iclr.cc/Conferences/2027
-      location: null
+      location: West Coast North America (city TBA)
       start: 2027-04-26
       end: 2027-04-30
       timezone: AoE
@@ -184,7 +185,7 @@
         abstract: 2026-09-18
         paper: 2026-09-25
         notification: 2026-12-16
-      notes: Venue "to be announced" on the official dates page.
+      notes: Region from iclr.cc/Conferences/FutureMeetings; city still "to be announced" on the dates page.
       verified_from: https://iclr.cc/Conferences/2027/Dates
 
 - id: aaai
@@ -470,6 +471,17 @@
         paper: 2026-04-01
         notification: 2026-07-09
       verified_from: https://2026.acmmm.org/site/important-dates.html
+    - year: 2027
+      url: https://acmmm.org/
+      location: Hong Kong, China
+      start: null
+      end: null
+      timezone: null
+      deadlines:
+        abstract: null
+        paper: null
+        notification: null
+      verified_from: https://acmmm.org/
 
 - id: miccai
   name: MICCAI
@@ -491,6 +503,18 @@
         paper: 2026-02-26
         notification: 2026-06-12
       verified_from: https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+    - year: 2027
+      url: https://miccai.org/upcoming-conferences/
+      location: Auckland, New Zealand
+      start: 2027-09-26
+      end: 2027-10-01
+      timezone: null
+      deadlines:
+        abstract: null
+        paper: null
+        notification: null
+      notes: Feb 2026 MICCAI Society announcement said 27 Sep–1 Oct; upcoming-conferences page says 26 Sep–1 Oct.
+      verified_from: https://miccai.org/upcoming-conferences/
 
 # --- Robotics & robot perception ---
 
@@ -547,7 +571,7 @@
     - year: 2027
       url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
       location: Florence, Italy
-      start: 2027-09-26
+      start: 2027-09-27
       end: 2027-10-01
       timezone: null
       deadlines:

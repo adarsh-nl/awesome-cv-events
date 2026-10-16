@@ -126,8 +126,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:13bb2d0cb092@awesome-cv-events
 DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20271002
-DTEND;VALUE=DATE:20271009
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271008
 SUMMARY:📍 ICCV 2027 — Hong Kong\, China
 URL:https://iccv.thecvf.com/Conferences/2027
 DESCRIPTION:IEEE/CVF International Conference on Computer Vision
@@ -298,7 +298,7 @@ UID:f99c3681ff14@awesome-cv-events
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270501
-SUMMARY:📍 ICLR 2027 — TBA
+SUMMARY:📍 ICLR 2027 — West Coast North America (city TBA)
 URL:https://iclr.cc/Conferences/2027
 DESCRIPTION:International Conference on Learning Representations
 TRANSP:TRANSPARENT
@@ -974,6 +974,16 @@ DESCRIPTION:Medical Image Computing and Computer Assisted Intervention
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:d9c4872dbdac@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20271002
+SUMMARY:📍 MICCAI 2027 — Auckland\, New Zealand
+URL:https://miccai.org/upcoming-conferences/
+DESCRIPTION:Medical Image Computing and Computer Assisted Intervention
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:a7bbc70c89c6@awesome-cv-events
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260601
@@ -1026,7 +1036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2a516b699e22@awesome-cv-events
 DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20270926
+DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20271002
 SUMMARY:📍 IROS 2027 — Florence\, Italy
 URL:https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
@@ -1210,6 +1220,16 @@ DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260704
 SUMMARY:📍 MLSS Reliability & Safety 2026 — Kraków\, Poland
 URL:https://mlss2026.mlinpl.org/
+DESCRIPTION:Machine Learning Summer School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f37816e2cc4@awesome-cv-events
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270313
+SUMMARY:📍 MLSS Okinawa 2027 — Okinawa (OIST)\, Japan
+URL:https://www.oist.jp/conference/machine-learning-summer-school-2027
 DESCRIPTION:Machine Learning Summer School
 TRANSP:TRANSPARENT
 END:VEVENT

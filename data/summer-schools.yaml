@@ -72,6 +72,16 @@
       deadlines:
         application: null
       verified_from: https://mlss2026.mlinpl.org/
+    - year: 2027
+      title: MLSS Okinawa
+      url: https://www.oist.jp/conference/machine-learning-summer-school-2027
+      location: Okinawa (OIST), Japan
+      start: 2027-03-01
+      end: 2027-03-12
+      timezone: null
+      deadlines:
+        application: null
+      verified_from: https://groups.oist.jp/node/43611
 
 - id: eeml
   name: EEML
