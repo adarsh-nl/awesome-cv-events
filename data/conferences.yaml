@@ -33,7 +33,7 @@
         abstract: 2026-11-10
         paper: 2026-11-16
         notification: 2027-02-25
-      notes: Official page says Seattle but its venue map points to San Francisco — re-check.
+      notes: Seattle confirmed on thecvf.com's upcoming-conferences list (an earlier CVPR venue map pointed to San Francisco).
       verified_from: https://cvpr.thecvf.com/Conferences/2027/CallForPapers
 
 - id: iccv
@@ -177,7 +177,7 @@
       verified_from: https://iclr.cc/Conferences/2026/Dates
     - year: 2027
       url: https://iclr.cc/Conferences/2027
-      location: West Coast North America (city TBA)
+      location: California, USA (city TBA)
       start: 2027-04-26
       end: 2027-04-30
       timezone: AoE
@@ -185,8 +185,8 @@
         abstract: 2026-09-18
         paper: 2026-09-25
         notification: 2026-12-16
-      notes: Region from iclr.cc/Conferences/FutureMeetings; city still "to be announced" on the dates page.
-      verified_from: https://iclr.cc/Conferences/2027/Dates
+      notes: ICLR 2027 page says California; venue "will be posted here" (page image shows Moscone Center, San Francisco — not confirmed).
+      verified_from: https://iclr.cc/Conferences/2027/index.html
 
 - id: aaai
   name: AAAI
@@ -444,10 +444,11 @@
       location: Tokyo, Japan
       start: 2027-06-28
       end: 2027-07-02
-      timezone: null
+      timezone: AoE
       deadlines:
-        paper: null
-      verified_from: https://learningtheory.org/colt2027/
+        paper: 2027-01-29
+        notification: 2027-05-03
+      verified_from: https://learningtheory.org/colt2027/cfp.html
 
 # --- Vision-adjacent ---
 
@@ -575,8 +576,9 @@
       end: 2027-10-01
       timezone: null
       deadlines:
-        paper: null
-      verified_from: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/
+        paper: 2027-03-01
+      notes: Paper deadline from the IEEE RAS events calendar.
+      verified_from: https://www.ieee-ras.org/event/call-for-papers-paper-submission-deadline-iros-2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-27403-0/
 
 - id: corl
   name: CoRL

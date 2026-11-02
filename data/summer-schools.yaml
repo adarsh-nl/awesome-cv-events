@@ -80,7 +80,7 @@
       end: 2027-03-12
       timezone: null
       deadlines:
-        application: null
+        application: 2026-10-10
       verified_from: https://groups.oist.jp/node/43611
 
 - id: eeml
