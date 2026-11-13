@@ -11,7 +11,7 @@ A curated, continuously updated tracker of the **top conferences and summer scho
 
 <!-- BEGIN GENERATED -->
 
-_Last generated: 11 Nov 2026. Struck-through deadlines have passed. `CV` computer vision · `ML` machine learning · `AI` artificial intelligence · `RO` robotics._
+_Last generated: 13 Nov 2026. Struck-through deadlines have passed. `CV` computer vision · `ML` machine learning · `AI` artificial intelligence · `RO` robotics._
 
 ## ⏰ Upcoming deadlines
 
@@ -36,7 +36,7 @@ _Last generated: 11 Nov 2026. Struck-through deadlines have passed. `CV` compute
 |---|---|---|---|---|---|
 | [**UAI 2026**](https://www.auai.org/uai2026/) <sub>(next TBA)</sub> | `ML` `AI` | 17–21 Aug 2026 | Amsterdam, Netherlands | ~~25 Feb 2026~~ | [home](https://www.auai.org/) · [source](https://www.auai.org/uai2026/important_dates) |
 | [**ECCV 2026**](https://eccv.ecva.net/Conferences/2026) <sub>(next TBA)</sub> | `CV` | 08–12 Sep 2026 | Malmö, Sweden | ~~05 Mar 2026~~ | [home](https://eccv.ecva.net) · [source](https://eccv.ecva.net/Conferences/2026/Dates) |
-| [**CoRL 2026**](https://2026.corl.org/) | `RO` `ML` | 09–12 Nov 2026 | Austin, USA | ~~28 May 2026~~ | [home](https://www.corl.org/) · [source](https://www.corl.org/contributions/instruction-for-authors) |
+| [**CoRL 2026**](https://2026.corl.org/) <sub>(next TBA)</sub> | `RO` `ML` | 09–12 Nov 2026 | Austin, USA | ~~28 May 2026~~ | [home](https://www.corl.org/) · [source](https://www.corl.org/contributions/instruction-for-authors) |
 | [**ACM MM 2026**](https://2026.acmmm.org/) | `CV` | 10–14 Nov 2026 | Rio de Janeiro, Brazil | ~~01 Apr 2026~~ | [home](https://acmmm.org/) · [source](https://2026.acmmm.org/site/important-dates.html) |
 | [**BMVC 2026**](https://bmvc2026.bmva.org/) | `CV` | 23–26 Nov 2026 | Lancaster, UK | ~~29 May 2026~~ | [home](https://www.bmva.org/bmvc) · [source](https://bmvc2026.bmva.org/calls/call-for-papers/) |
 | [**NeurIPS 2026**](https://neurips.cc/Conferences/2026)<br><sub>Satellite venues in Atlanta and Paris, 9–13 Dec.</sub> | `ML` | 06–12 Dec 2026 | Sydney, Australia | ~~06 May 2026~~ | [home](https://neurips.cc) · [source](https://neurips.cc/Conferences/2026/Dates) |
@@ -83,6 +83,7 @@ _Last generated: 11 Nov 2026. Struck-through deadlines have passed. `CV` compute
 
 | Event | Dates | Location |
 |---|---|---|
+| [CoRL 2026](https://2026.corl.org/) | 09–12 Nov 2026 | Austin, USA |
 | [MICCAI 2026](https://conferences.miccai.org/2026/en/) | 27 Sep – 01 Oct 2026 | Strasbourg, France |
 | [IROS 2026](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros/iros-past-and-future-venues/) | 27 Sep – 01 Oct 2026 | Pittsburgh, USA |
 | [ELLIS Munich 2026](https://www.ellismunich.ai/summer-school/index.html) | 15–18 Sep 2026 | Garching (Munich), Germany |
