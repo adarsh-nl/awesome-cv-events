@@ -41,6 +41,16 @@
         registration: 2026-05-31
       notes: Paid registration (no selection); date is the early-bird cutoff.
       verified_from: https://cvss.bmva.org/attending/registration/
+    - year: 2027
+      url: https://cvss.bmva.org/school
+      location: Aberdeen, UK
+      start: 2027-07-12
+      end: 2027-07-16
+      timezone: null
+      deadlines:
+        registration: null
+      notes: At Robert Gordon University.
+      verified_from: https://cvss.bmva.org/school
 
 - id: mlss
   name: MLSS

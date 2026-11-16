@@ -145,7 +145,7 @@
       verified_from: https://icml.cc/Conferences/2026/Dates
     - year: 2027
       url: https://icml.cc/Conferences/FutureMeetings
-      location: South America (city TBA)
+      location: Rio de Janeiro, Brazil
       start: null
       end: null
       timezone: null
@@ -505,17 +505,17 @@
         notification: 2026-06-12
       verified_from: https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
     - year: 2027
-      url: https://miccai.org/upcoming-conferences/
+      url: https://conferences.miccai.org/2027/en/
       location: Auckland, New Zealand
-      start: 2027-09-26
+      start: 2027-09-27
       end: 2027-10-01
       timezone: null
       deadlines:
         abstract: null
         paper: null
         notification: null
-      notes: Feb 2026 MICCAI Society announcement said 27 Sep–1 Oct; upcoming-conferences page says 26 Sep–1 Oct.
-      verified_from: https://miccai.org/upcoming-conferences/
+      notes: At NZICC. Official MICCAI 2027 site says 27 Sep–1 Oct; MICCAI Society upcoming-conferences page still says 26 Sep–1 Oct.
+      verified_from: https://conferences.miccai.org/2027/en/
 
 # --- Robotics & robot perception ---
 
