@@ -11,13 +11,12 @@ A curated, continuously updated tracker of the **top conferences and summer scho
 
 <!-- BEGIN GENERATED -->
 
-_Last generated: 16 Nov 2026. Struck-through deadlines have passed. `CV` computer vision · `ML` machine learning · `AI` artificial intelligence · `RO` robotics._
+_Last generated: 17 Nov 2026. Struck-through deadlines have passed. `CV` computer vision · `ML` machine learning · `AI` artificial intelligence · `RO` robotics._
 
 ## ⏰ Upcoming deadlines
 
 | Date | Event | Deadline | Timezone |
 |---|---|---|---|
-| Mon 16 Nov 2026 | [CVPR 2027](https://cvpr.thecvf.com/Conferences/2027) | Paper | AoE |
 | Mon 30 Nov 2026 | [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/) | Notification | AoE |
 | Wed 02 Dec 2026 | [3DV 2027](https://3dvconf.github.io/2027/) | Notification | AoE |
 | Fri 04 Dec 2026 | [RSS 2027](https://roboticsconference.org/) | Abstract | AoE |
@@ -46,7 +45,7 @@ _Last generated: 16 Nov 2026. Struck-through deadlines have passed. `CV` compute
 | [**ICLR 2027**](https://iclr.cc/Conferences/2027)<br><sub>ICLR 2027 page says California; venue "will be posted here" (page image shows Moscone Center, San Francisco — not confirmed).</sub> | `ML` | 26–30 Apr 2027 | California, USA (city TBA) | ~~25 Sep 2026~~ | [home](https://iclr.cc) · [source](https://iclr.cc/Conferences/2027/index.html) |
 | [**AISTATS 2027**](https://aistats.org/aistats2027/) | `ML` | 03–06 May 2027 | Montréal, Canada | ~~06 Oct 2026~~ | [home](https://aistats.org/) · [source](https://virtual.aistats.org/Conferences/2027/Dates) |
 | [**ICRA 2027**](https://2027.ieee-icra.org/)<br><sub>Paper deadline is the 24h extension.</sub> | `RO` | 24–28 May 2027 | Seoul, South Korea | ~~16 Sep 2026~~ | [home](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra) · [source](https://2027.ieee-icra.org/announcements/) |
-| [**CVPR 2027**](https://cvpr.thecvf.com/Conferences/2027)<br><sub>Seattle confirmed on thecvf.com's upcoming-conferences list (an earlier CVPR venue map pointed to San Francisco).</sub> | `CV` | 20–25 Jun 2027 | Seattle, USA | **16 Nov 2026** AoE | [home](https://cvpr.thecvf.com) · [source](https://cvpr.thecvf.com/Conferences/2027/CallForPapers) |
+| [**CVPR 2027**](https://cvpr.thecvf.com/Conferences/2027)<br><sub>Seattle confirmed on thecvf.com's upcoming-conferences list (an earlier CVPR venue map pointed to San Francisco).</sub> | `CV` | 20–25 Jun 2027 | Seattle, USA | ~~16 Nov 2026~~ | [home](https://cvpr.thecvf.com) · [source](https://cvpr.thecvf.com/Conferences/2027/CallForPapers) |
 | [**COLT 2027**](https://learningtheory.org/colt2027/) | `ML` | 28 Jun – 02 Jul 2027 | Tokyo, Japan | **29 Jan 2027** AoE | [home](https://learningtheory.org/) · [source](https://learningtheory.org/colt2027/cfp.html) |
 | [**RSS 2027**](https://roboticsconference.org/)<br><sub>New two-stage review; "abstract" is the extended-abstract deadline (stage 1 decision 5 Feb 2027).</sub> | `RO` | 06–11 Jul 2027 | Athens, Greece | **16 Apr 2027** AoE | [home](https://roboticsconference.org/) · [source](https://roboticsconference.org/) |
 | [**IJCAI 2027**](https://www.ijcai.org/future_conferences)<br><sub>Second part in Hengqin, China, 15–17 Aug 2027.</sub> | `AI` | 07–13 Aug 2027 | Kyoto, Japan | TBA | [home](https://www.ijcai.org) · [source](https://www.ijcai.org/future_conferences) |
